@@ -1,0 +1,36 @@
+.box {
+    /*Sets the height and width of the section */
+    width: 200px;
+    height: 100px
+  }
+  
+  #box-blue {
+    color: white;
+    background-color: #0000ff;
+  }
+  
+  #box-orange {
+    color: yellow;
+    background-color:#0000ff;
+  }
+  
+  #box-yellow {
+    color: yellow;
+    background-color: purple;
+  };
+
+.container {
+    width: 200px;
+    height: 100px
+}
+    #box-white {
+color: white;
+background-color: black;
+    }
+
+    #box-yellowtext {
+    color: yellow;      
+    background-color: black;     
+};
+  
+  
