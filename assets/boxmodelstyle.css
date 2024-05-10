@@ -1,0 +1,17 @@
+section {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    border: 10px solid black;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+    margin: 3%;
+    padding: 20px;
+    background-color: lightblue;
+    border: 10px solid darkblue;
+
+  }
+    
